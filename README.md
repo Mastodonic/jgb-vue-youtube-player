@@ -1,6 +1,5 @@
-# vue-jgb-youtube-player
-
-> A Vue.js project
+## Vue Lazy Youtube Player
+A Vue.js component for lazyloading youtube videos with custom cover image.
 
 ## Build Setup
 
